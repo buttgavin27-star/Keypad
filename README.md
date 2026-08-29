@@ -5,7 +5,8 @@ Keypad is a 6-key macropad with direct wiring including an OLED screen.
 # Case
 Made in Autodesk Fusion (or Fusion360)
 
-<img width="545" height="425" alt="case" src="https://github.com/user-attachments/assets/9e3f31e0-6b7a-47ea-87f3-02b24f0bb509" />
+<img width="623" height="394" alt="case" src="https://github.com/user-attachments/assets/e3559ed1-46ac-4097-b4ab-7c0717be34ae" />
+
 
 # Schematic
 Made with Kicad, using direct wiring
