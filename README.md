@@ -19,5 +19,6 @@ Made with Kicad
 
 # Bill of Materials
 - Seed XIAO RP2040 microcontroller
+- 6x through-hole 1N4148 Diodes
 - 6x MX-Style Switches
 - 1x0.91 inch OLED display
