@@ -14,7 +14,7 @@ Made with Kicad, using direct wiring
 <img width="908" height="618" alt="schematic" src="https://github.com/user-attachments/assets/f25febf2-7be2-407f-8f6a-01d94604cd01" />
 
 # PCB
-Made with Kicad
+Made with Kicad, with direct-pin wiring
 
 <img width="762" height="661" alt="PCB" src="https://github.com/user-attachments/assets/f916ca81-d7b0-4750-ba80-eecbd8b08167" />
 
