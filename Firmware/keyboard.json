@@ -1,7 +1,7 @@
 {
-    "manufacturer": "yourname",
+    "manufacturer": "buttgavin27-star",
     "keyboard_name": "keypad",
-    "maintainer": "yourname",
+    "maintainer": "buttgavin27-star",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "matrix_pins": {
