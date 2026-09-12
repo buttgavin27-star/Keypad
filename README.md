@@ -7,6 +7,9 @@ Made in Autodesk Fusion (or Fusion360)
 
 <img width="623" height="394" alt="case" src="https://github.com/user-attachments/assets/e3559ed1-46ac-4097-b4ab-7c0717be34ae" />
 
+Here's how it will fit together!
+<img width="408" height="431" alt="Screenshot 2026-09-12 at 11 27 25 AM" src="https://github.com/user-attachments/assets/a5ddc278-7fcb-4824-a17a-abcde24b4acc" />
+
 
 # Schematic
 Made with Kicad, using direct wiring
